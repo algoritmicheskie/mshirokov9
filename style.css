@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+ul{
+background-color: aquamarine;
+box-shadow: 3px 5px 6px 2px gold;
+}
+h1{
+background-image: linear-gradient(red,gold);
+box-shadow: 10px 5px 8px 1px green;
+
+}body {
+    font-family: sans-serif;
+}
+
+p{
+
+background-color: greenyellow;
+box-shadow: 5px 5px 5px 0px red;
+border: 6px double aqua;
+}
+header{
+background-color: orange;
+box-shadow: 3px 5px 6px 1px purple;
+border: 3px double royalblue;
+}
+nav{
+background-color: aqua;
+box-shadow: 4px 5px 3px 0px gold;
+border: 6px double darkgreen;
+}
+h1{
+background-color: green;
+box-shadow: 5px 5px 5px 5px goldenrod;
+border: 7px yellowgreen;
+}
+li{
+background-color: aqua;
+box-shadow: 3px 6px 9px 1px greenyellow;
+}
+h2{
+background-color: lawngreen;
+box-shadow: 6px 5px 6px 0px blue;
+border: 3px yellow;
+}
